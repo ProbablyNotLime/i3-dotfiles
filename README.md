@@ -11,3 +11,5 @@ To adi1090x for the polybar theme https://github.com/adi1090x/polybar-themes
 To DT for the wallpaper https://gitlab.com/dwt1/wallpapers
 
 To 13-CF for afetch https://github.com/13-CF/afetch
+
+And the dracula theme team for the amazing theme https://draculatheme.com/
